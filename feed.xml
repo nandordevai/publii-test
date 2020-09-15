@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test</title>
+    <link href="https://nandordevai.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://nandordevai.github.io/publii-test" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Dévai Nándor</name>
+    </author>
+    <id>https://nandordevai.github.io/publii-test</id>
+
+    <entry>
+        <title>First post</title>
+        <author>
+            <name>Dévai Nándor</name>
+        </author>
+        <link href="https://nandordevai.github.io/publii-test/first-post.html"/>
+        <id>https://nandordevai.github.io/publii-test/first-post.html</id>
+
+        <updated>2020-09-15T20:17:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Something something
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Something something</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
